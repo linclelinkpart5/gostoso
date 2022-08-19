@@ -1,4 +1,6 @@
 [package]
+authors = ["Mark LeMoine <linclelinkpart5@gmail.com>"]
+description = "A minimalistic, set-and-forget music player intended for playing music at dance socials."
 edition = "2021"
 name = "gostoso"
 version = "0.1.0"
